@@ -1,0 +1,309 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.585136890411377,
+          47.58216359808353
+        ]
+      },
+      "properties": {
+        "file": "T01",
+        "tolerance": 1,
+        "triggered": false,
+        "playing": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.5883233547210684,
+            47.592265399617375
+          ],
+          [
+            7.5885432958602905,
+            47.59219485296481
+          ],
+          [
+            7.588666677474976,
+            47.59234318171384
+          ],
+          [
+            7.588503062725067,
+            47.592399257107
+          ]
+        ]
+      },
+      "properties": {
+        "file": "T02",
+        "tolerance": 7,
+        "triggered": false,
+        "playing": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.588465511798859,
+            47.591912665403534
+          ],
+          [
+            7.58828580379486,
+            47.59154364860439
+          ]
+        ]
+      },
+      "properties": {
+        "file": "T03",
+        "tolerance": "",
+        "triggered": false,
+        "playing": false,
+        "depends": "T02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.589897811412812,
+            47.5917860422853
+          ],
+          [
+            7.589761018753051,
+            47.591444158335776
+          ]
+        ]
+      },
+      "properties": {
+        "file": "T05",
+        "tolerance": "",
+        "depends": "T02",
+        "triggered": false,
+        "playing": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.591056525707245,
+            47.59158706248053
+          ],
+          [
+            7.59093850851059,
+            47.59128497351255
+          ]
+        ]
+      },
+      "properties": {
+        "file": "T06",
+        "tolerance": "",
+        "triggered": false,
+        "playing": false,
+        "depends": "T02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.592657804489136,
+            47.58930959428629
+          ],
+          [
+            7.593446373939514,
+            47.58923542566528
+          ]
+        ]
+      },
+      "properties": {
+        "file": "T08",
+        "triggered": false,
+        "playing": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.591976523399353,
+            47.587350422018
+          ],
+          [
+            7.592282295227052,
+            47.58735946730318
+          ]
+        ]
+      },
+      "properties": {
+        "file": "T16",
+        "triggered": false,
+        "playing": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.590737342834473,
+            47.5855829433026
+          ],
+          [
+            7.591885328292847,
+            47.58534413914528
+          ]
+        ]
+      },
+      "properties": {
+        "file": "T17",
+        "triggered": false,
+        "playing": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.590356469154358,
+            47.58460239201239
+          ],
+          [
+            7.591209411621093,
+            47.584399766577576
+          ]
+        ]
+      },
+      "properties": {
+        "file": "T18",
+        "triggered": false,
+        "playing": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.589787840843201,
+            47.58371228157882
+          ],
+          [
+            7.59078562259674,
+            47.58349156079612
+          ]
+        ]
+      },
+      "properties": {
+        "file": "T18A",
+        "triggered": false,
+        "playing": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.586773037910462,
+            47.58281491915458
+          ],
+          [
+            7.588387727737427,
+            47.58247840427966
+          ]
+        ]
+      },
+      "properties": {
+        "file": "T21A",
+        "triggered": false,
+        "playing": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.585914731025696,
+            47.580991199734854
+          ],
+          [
+            7.586660385131836,
+            47.580900735808235
+          ]
+        ]
+      },
+      "properties": {
+        "file": "T25",
+        "triggered": false,
+        "playing": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.585571408271789,
+            47.57929407043033
+          ],
+          [
+            7.586408257484436,
+            47.57926150237904
+          ]
+        ]
+      },
+      "properties": {
+        "file": "T26",
+        "triggered": false,
+        "playing": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.585619688034057,
+            47.57845091324226
+          ],
+          [
+            7.5862741470336905,
+            47.57844548514769
+          ]
+        ]
+      },
+      "properties": {
+        "file": "T26A",
+        "triggered": false,
+        "playing": false
+      }
+    }
+  ]
+}
